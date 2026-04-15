@@ -97,8 +97,7 @@ Portfolio: https://vasylbiliak.github.io/portfolio/
 <!-- animation here -->
 
   <div align="center">
-    <img src="[https://github.com/user-attachments/assets/e1449434-98cc-4856-b53e-79d88968f934" width="400"/>
- 
+    <img src="https://raw.githubusercontent.com/VasylBiliak/VasylBiliak/main/assets/your-gif.gif" width="500"/> 
 </div>
 </div>
 </div>
