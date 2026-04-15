@@ -1,12 +1,8 @@
-## Hi there 👋
-
 <div align="center">
-
 <br/>
 
-![Vasyl Biliak](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=1&pause=1000000&color=00C2FF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Vasyl+Biliak)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Gatsby+React+%26+Next.js;Building+modern+UI+%26+web+apps;Clean+code+%7C+Performance+%7C+SEO)](https://git.io/typing-svg)
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=46B520&center=true&vCenter=true&width=600&lines=Hello+World;Frontend+Developer)
+![Vasyl Biliak](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=1&pause=1000000&color=3e8ef8&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Vasyl+Biliak)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=46B520&center=true&vCenter=true&width=640&lines=Frontend+Developer+%7C+Gatsby+%26+React+%26+Next.js;Building+modern+UI+%26+web+apps;Clean+code+%7C+Performance+%7C+SEO)](https://git.io/typing-svg)
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/My--portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://vasylbiliak.github.io/portfolio/)
@@ -89,14 +85,7 @@ I am a full-stack developer focused on building modern, responsive, and scalable
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VasylBiliak&theme=merko&title_color=46B520" width="100%"/>
-<table>
-  <tr>
-</tr>
-</table>
+[[<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=react-dark&color=4482bf&line=4482bf&point=5aa2ff&bg_color=0d1117" width="100%"/>](https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=dracula)](https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=github-compact)
 </div>
-
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=merko&hide_border=true&area=true&color=46B520&line=46B520&point=56d364" width="100%"/>
-
 </div>
