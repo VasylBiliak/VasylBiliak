@@ -85,7 +85,7 @@ I am a full-stack developer focused on building modern, responsive, and scalable
 
 <div align="center">
 
-[[<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=react-dark&color=4482bf&line=4482bf&point=5aa2ff&bg_color=0d1117" width="100%"/>](https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=dracula)](https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=github-compact)
+[[<img src="https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=react-dark&color=4482bf&line=4482bf&point=5aa2ff&bg_color=0d1117" width="100%"/>](https://github-readme-activity-graph.vercel.app/graph?username=VasylBiliak&theme=dracula)]
 </div>
 <br/>
 </div>
