@@ -4,8 +4,11 @@
 
 ![Vasyl Biliak](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=1&pause=1000000&color=3e8ef8&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Vasyl+Biliak)
 <!-- Subtitle / Role -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=46B520&center=true&vCenter=true&width=640&lines=Frontend+Developer+%7C+Gatsby+%26+React+%26+Next.js;Building+modern+UI+%26+web+apps;Clean+code+%7C+Performance+%7C+SEO)](https://git.io/typing-svg)
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&lines=Frontend+%7C+React+%7C+Next.js+%7C+Gatsby)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=339933&center=true&vCenter=true&width=640&lines=Backend+%7C+Node.js+%7C+Express+%7C+Python+%7C+Flask)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=46B520&center=true&vCenter=true&width=640&lines=Building+modern+UI+%26+web+apps;Clean+code+%7C+Performance+%7C+SEO)](https://git.io/typing-svg)
 <!-- Links -->
 [![Portfolio](https://img.shields.io/badge/My--portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://vasylbiliak.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vasyl--Biliak-0a3d1f?style=for-the-badge&logo=github&logoColor=46B520&labelColor=0a3d1f)](https://github.com/VasylBiliak)
