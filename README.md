@@ -9,16 +9,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=339933&center=true&vCenter=true&width=640&lines=Backend+%7C+Node.js+%7C+Express+%7C+Python+%7C+Flask)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=46B520&center=true&vCenter=true&width=640&lines=Building+modern+UI+%26+web+apps;Clean+code+%7C+Performance+%7C+SEO)](https://git.io/typing-svg)
-<!-- Links -->
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/My--portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://vasylbiliak.github.io/portfolio/)
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Vasyl--Biliak-0a3d1f?style=for-the-badge&logo=github&logoColor=46B520&labelColor=0a3d1f)](https://github.com/VasylBiliak)
+
 <br/>
-<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasyl--Biliak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-biliak-developer)
+&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-vasyl__biliak-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vasyl_biliak)
+&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-vasyl__biliak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vasyl_biliak)
+&nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ce8wbDCZ5u49j7oKPjobwl?mode=gi_t)
+&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1104186007605235723)
+
 </div>
 
 <br/>
