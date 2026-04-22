@@ -12,7 +12,13 @@
 <!-- Links -->
 [![Portfolio](https://img.shields.io/badge/My--portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://vasylbiliak.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vasyl--Biliak-0a3d1f?style=for-the-badge&logo=github&logoColor=46B520&labelColor=0a3d1f)](https://github.com/VasylBiliak)
-
+<br/>
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasyl--Biliak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-biliak-developer)
+[![X](https://img.shields.io/badge/X-vasyl__biliak-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vasyl_biliak)
+[![Instagram](https://img.shields.io/badge/Instagram-vasyl__biliak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vasyl_biliak)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ce8wbDCZ5u49j7oKPjobwl?mode=gi_t)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1104186007605235723)
 </div>
 
 <br/>
