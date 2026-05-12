@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasyl--Biliak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-biliak-developer)
 &nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-vasyl__biliak-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vasyl_biliak)
+[![X](https://img.shields.io/badge/vasyl__biliak-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vasyl_biliak)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-vasyl__biliak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vasyl_biliak)
 &nbsp;&nbsp;
